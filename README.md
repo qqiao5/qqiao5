@@ -1,4 +1,4 @@
-## 👋 Hi there! I'm an aspiring data scientist.
+## 👋 Hi there! I'm an aspiring data scientist - Qi Qiao.
 
 I’m passionate about using data to solve real-world problems. With a strong background in Python and statistics, I enjoy working on projects that combine machine learning, data visualization, and practical impact.
 
@@ -16,12 +16,8 @@ I’m passionate about using data to solve real-world problems. With a strong ba
 
 ---
 
-### 📌 Goals for GitHub
-- Improve README files and documentation for clarity
-- Add more visualizations and interactive dashboards (e.g., Streamlit)
-- Pin top projects that showcase a full end-to-end workflow
-
----
-
 ### 📫 Let's Connect
+- 📫 How to reach me: [qqiao5@uchicago.edu] or connect with me on [LinkedIn](http://linkedin.com/in/qi-qiao-017a3a220)
+- 😄 Pronouns: they/them (or add your own here)
+- ⚡️ Fun fact: I love cooking, hiking, astrology and tarot. 
 Feel free to check out my projects and reach out if you want to collaborate or chat about data science!
